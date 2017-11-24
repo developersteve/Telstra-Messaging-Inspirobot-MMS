@@ -1,8 +1,6 @@
 # Using the Telstra Messaging API in NodeJS to send a MMS image generated from [Inspirobot.me](https://inspirobot.me)
 
-This is an example of the Telstra Messaging API using plain PHP to send a SMS.
-
-This code uses the [NodeJS SDK](https://github.com/telstra/MessagingAPI-SDK-node)
+This code uses the [NodeJS SDK](https://github.com/telstra/MessagingAPI-SDK-node) to send a MMS via [Dev.Telstra.com](https://dev.telstra.com) API's with totally random images from [Inspirobot.me](https://inspirobot.me)
 
 ## Technology
 
